@@ -12,5 +12,4 @@ print("Who's there?")
 input()
 print('Interrupting cow.')
 input()
-print('Interrupting cow wh', end='')
-print('-MOO!')
+
